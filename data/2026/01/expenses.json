@@ -7,5 +7,14 @@
     "createdAt": "2026-01-11T17:43:09.753Z",
     "updatedAt": "2026-01-11T17:43:09.757Z",
     "category": "Food"
+  },
+  {
+    "id": "exp_20260117681534411026768",
+    "date": "2026-01-10",
+    "description": "Dosa",
+    "amount": 85,
+    "createdAt": "2026-01-11T17:44:01.102Z",
+    "updatedAt": "2026-01-11T17:44:01.102Z",
+    "category": "Food"
   }
 ]
