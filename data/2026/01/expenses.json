@@ -16,5 +16,14 @@
     "createdAt": "2026-01-11T17:44:01.102Z",
     "updatedAt": "2026-01-11T17:44:01.102Z",
     "category": "Food"
+  },
+  {
+    "id": "exp_20260117681536568246086",
+    "date": "2026-01-08",
+    "description": "Ticket",
+    "amount": 20,
+    "createdAt": "2026-01-11T17:47:36.824Z",
+    "updatedAt": "2026-01-11T17:47:36.824Z",
+    "category": "Transportation"
   }
 ]
