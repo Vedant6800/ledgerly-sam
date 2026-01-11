@@ -1,0 +1,26 @@
+{
+  "income": [
+    "FD/RD",
+    "Others",
+    "Recived from someone",
+    "Salary"
+  ],
+  "expenses": [
+    "Clothing",
+    "Education",
+    "Entertainment",
+    "Food",
+    "Gifts",
+    "Given at Home",
+    "Healthcare",
+    "Miscellaneous",
+    "Personal Care",
+    "Rent",
+    "Transportation",
+    "Travel",
+    "Utilities",
+    "Investment",
+    "Grocery",
+    "Return Taken Money"
+  ]
+}
