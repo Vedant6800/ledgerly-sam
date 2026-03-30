@@ -16,5 +16,14 @@
     "createdAt": "2026-03-30T06:48:29.117Z",
     "updatedAt": "2026-03-30T06:48:29.117Z",
     "category": "Others"
+  },
+  {
+    "id": "inc_20260317748534437099458",
+    "date": "2026-03-30",
+    "description": "Kotak remaining",
+    "amount": 8851,
+    "createdAt": "2026-03-30T06:50:43.709Z",
+    "updatedAt": "2026-03-30T06:50:43.709Z",
+    "category": "Recived from someone"
   }
 ]
