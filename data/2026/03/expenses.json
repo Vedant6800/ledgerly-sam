@@ -7,5 +7,14 @@
     "createdAt": "2026-03-30T06:51:29.682Z",
     "updatedAt": "2026-03-30T06:51:29.682Z",
     "category": "Education"
+  },
+  {
+    "id": "exp_20260317748767205132922",
+    "date": "2026-03-30",
+    "description": "Parlour",
+    "amount": 400,
+    "createdAt": "2026-03-30T13:18:40.514Z",
+    "updatedAt": "2026-03-30T13:18:40.514Z",
+    "category": "Personal Care"
   }
 ]
