@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260317749274000118351",
+    "date": "2026-03-31",
+    "description": "Bus ticket",
+    "amount": 773,
+    "createdAt": "2026-03-31T03:23:20.011Z",
+    "updatedAt": "2026-03-31T03:23:20.012Z",
+    "category": "Travel"
+  },
+  {
     "id": "exp_20260317748534896824956",
     "date": "2026-03-30",
     "description": "BC to aai",
