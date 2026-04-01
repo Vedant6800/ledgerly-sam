@@ -7,5 +7,14 @@
     "createdAt": "2026-04-01T18:35:29.574Z",
     "updatedAt": "2026-04-01T18:35:29.575Z",
     "category": "Personal Care"
+  },
+  {
+    "id": "exp_20260417750685617927733",
+    "date": "2026-04-01",
+    "description": "PMT",
+    "amount": 20,
+    "createdAt": "2026-04-01T18:36:01.792Z",
+    "updatedAt": "2026-04-01T18:36:01.792Z",
+    "category": "Transportation"
   }
 ]
