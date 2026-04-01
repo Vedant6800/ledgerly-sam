@@ -16,5 +16,14 @@
     "createdAt": "2026-04-01T18:36:01.792Z",
     "updatedAt": "2026-04-01T18:36:01.792Z",
     "category": "Transportation"
+  },
+  {
+    "id": "exp_20260417750686547541237",
+    "date": "2026-04-01",
+    "description": "Canteen",
+    "amount": 17,
+    "createdAt": "2026-04-01T18:37:34.754Z",
+    "updatedAt": "2026-04-01T18:37:34.757Z",
+    "category": "Food"
   }
 ]
