@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417751045240733316",
+    "date": "2026-04-02",
+    "description": "Rd",
+    "amount": 2000,
+    "createdAt": "2026-04-02T04:35:24.073Z",
+    "updatedAt": "2026-04-02T04:35:24.073Z",
+    "category": "Investment"
+  },
+  {
     "id": "exp_20260417750685295746801",
     "date": "2026-04-01",
     "description": "Parlour",
