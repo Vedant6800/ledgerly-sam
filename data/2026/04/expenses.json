@@ -9,6 +9,15 @@
     "category": "escip"
   },
   {
+    "id": "exp_20260417753231566489165",
+    "date": "2026-04-04",
+    "description": "Ice cream",
+    "amount": 35,
+    "createdAt": "2026-04-04T17:19:16.648Z",
+    "updatedAt": "2026-04-04T17:19:16.648Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417752843102545991",
     "date": "2026-04-03",
     "description": "Canteen",
