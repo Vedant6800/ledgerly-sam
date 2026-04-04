@@ -18,6 +18,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417752843905249792",
+    "date": "2026-04-03",
+    "description": "Pmt",
+    "amount": 20,
+    "createdAt": "2026-04-04T06:33:10.524Z",
+    "updatedAt": "2026-04-04T06:33:10.525Z",
+    "category": "Travel"
+  },
+  {
     "id": "exp_20260417751045240733316",
     "date": "2026-04-02",
     "description": "Rd",
