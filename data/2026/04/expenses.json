@@ -9,6 +9,15 @@
     "category": "escip"
   },
   {
+    "id": "exp_20260417752843102545991",
+    "date": "2026-04-03",
+    "description": "Canteen",
+    "amount": 90,
+    "createdAt": "2026-04-04T06:31:50.254Z",
+    "updatedAt": "2026-04-04T06:31:50.254Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417751045240733316",
     "date": "2026-04-02",
     "description": "Rd",
