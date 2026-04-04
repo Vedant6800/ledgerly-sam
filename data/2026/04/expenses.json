@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_2026041775284279871245",
+    "date": "2026-04-04",
+    "description": "Escip amount cut",
+    "amount": 171,
+    "createdAt": "2026-04-04T06:31:19.871Z",
+    "updatedAt": "2026-04-04T06:31:19.872Z",
+    "category": "escip"
+  },
+  {
     "id": "exp_20260417751045240733316",
     "date": "2026-04-02",
     "description": "Rd",
