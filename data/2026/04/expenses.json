@@ -36,6 +36,15 @@
     "category": "Investment"
   },
   {
+    "id": "exp_20260417752845062197761",
+    "date": "2026-04-02",
+    "description": "Milk",
+    "amount": 10,
+    "createdAt": "2026-04-04T06:35:06.219Z",
+    "updatedAt": "2026-04-04T06:35:06.219Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417750685295746801",
     "date": "2026-04-01",
     "description": "Parlour",
