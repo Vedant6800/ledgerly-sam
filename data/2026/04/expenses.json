@@ -27,6 +27,15 @@
     "category": "Travel"
   },
   {
+    "id": "exp_20260417752845901727882",
+    "date": "2026-04-03",
+    "description": "Tea",
+    "amount": 15,
+    "createdAt": "2026-04-04T06:36:30.172Z",
+    "updatedAt": "2026-04-04T06:36:30.173Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417751045240733316",
     "date": "2026-04-02",
     "description": "Rd",
