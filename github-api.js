@@ -3,7 +3,7 @@
 // ==========================================
 const GITHUB_CONFIG = {
     owner: 'Vedant6800',        // Replace with your GitHub username
-    repo: 'ledgerly',                 // Replace with your repository name
+    repo: 'ledgerly-sam',                 // Replace with your repository name
     branch: 'main',                        // Replace with your branch name (main or master)
     token: '',              // Token will be loaded from localStorage
     basePath: 'data'                       // Base path for data files in repo
