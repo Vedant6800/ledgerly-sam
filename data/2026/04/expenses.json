@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417753839308462711",
+    "date": "2026-04-05",
+    "description": "Milk",
+    "amount": 10,
+    "createdAt": "2026-04-05T10:12:10.846Z",
+    "updatedAt": "2026-04-05T10:12:10.846Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_2026041775284279871245",
     "date": "2026-04-04",
     "description": "Escip amount cut",
