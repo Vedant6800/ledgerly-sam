@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417760639430875325",
+    "date": "2026-04-12",
+    "description": "Laptop emi",
+    "amount": 7000,
+    "createdAt": "2026-04-13T07:05:43.087Z",
+    "updatedAt": "2026-04-13T07:05:43.088Z",
+    "category": "EMI"
+  },
+  {
     "id": "exp_20260417753839308462711",
     "date": "2026-04-05",
     "description": "Milk",
