@@ -27,6 +27,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417764143351098441",
+    "date": "2026-04-16",
+    "description": "Chai",
+    "amount": 15,
+    "createdAt": "2026-04-17T08:25:35.109Z",
+    "updatedAt": "2026-04-17T08:25:35.109Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764139706009323",
     "date": "2026-04-14",
     "description": "Pmt",
