@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417764135403729914",
+    "date": "2026-04-17",
+    "description": "Pmt",
+    "amount": 110,
+    "createdAt": "2026-04-17T08:12:20.373Z",
+    "updatedAt": "2026-04-17T08:12:20.373Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417760639430875325",
     "date": "2026-04-12",
     "description": "Laptop emi",
