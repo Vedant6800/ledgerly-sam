@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417764141541094901",
+    "date": "2026-04-17",
+    "description": "Collective 10 days PMT",
+    "amount": 200,
+    "createdAt": "2026-04-17T08:22:34.109Z",
+    "updatedAt": "2026-04-17T08:22:34.109Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417764139706009323",
     "date": "2026-04-14",
     "description": "Pmt",
