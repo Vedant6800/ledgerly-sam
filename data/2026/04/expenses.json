@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417764137940026255",
+    "date": "2026-04-13",
+    "description": "Pmt",
+    "amount": 20,
+    "createdAt": "2026-04-17T08:16:34.002Z",
+    "updatedAt": "2026-04-17T08:16:34.005Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417760639430875325",
     "date": "2026-04-12",
     "description": "Laptop emi",
