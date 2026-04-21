@@ -171,6 +171,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767972743296369",
+    "date": "2026-04-09",
+    "description": "food court",
+    "amount": 70,
+    "createdAt": "2026-04-21T18:47:54.329Z",
+    "updatedAt": "2026-04-21T18:47:54.329Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767964619274376",
     "date": "2026-04-08",
     "description": "pmt",
