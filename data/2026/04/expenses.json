@@ -90,6 +90,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767982895708149",
+    "date": "2026-04-17",
+    "description": "pmt",
+    "amount": 20,
+    "createdAt": "2026-04-21T19:04:49.570Z",
+    "updatedAt": "2026-04-21T19:04:49.570Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417764143351098441",
     "date": "2026-04-16",
     "description": "Chai",
