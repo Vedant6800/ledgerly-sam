@@ -18,6 +18,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_2026041776795277619817",
+    "date": "2026-04-20",
+    "description": "pmt",
+    "amount": 20,
+    "createdAt": "2026-04-21T18:14:37.619Z",
+    "updatedAt": "2026-04-21T18:14:37.619Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417764135403729914",
     "date": "2026-04-17",
     "description": "Pmt",
