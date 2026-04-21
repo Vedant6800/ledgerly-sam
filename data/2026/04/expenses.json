@@ -108,6 +108,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417767959763611068",
+    "date": "2026-04-06",
+    "description": "roti tawa",
+    "amount": 444,
+    "createdAt": "2026-04-21T18:26:16.361Z",
+    "updatedAt": "2026-04-21T18:26:16.361Z",
+    "category": "cookware"
+  },
+  {
     "id": "exp_20260417753839308462711",
     "date": "2026-04-05",
     "description": "Milk",
