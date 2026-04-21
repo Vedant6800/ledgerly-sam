@@ -153,6 +153,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417767961103407337",
+    "date": "2026-04-05",
+    "description": "bhel",
+    "amount": 40,
+    "createdAt": "2026-04-21T18:28:30.340Z",
+    "updatedAt": "2026-04-21T18:28:30.340Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_2026041775284279871245",
     "date": "2026-04-04",
     "description": "Escip amount cut",
