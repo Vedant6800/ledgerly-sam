@@ -144,6 +144,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_2026041776798111383464",
+    "date": "2026-04-13",
+    "description": "canteen",
+    "amount": 70,
+    "createdAt": "2026-04-21T19:01:51.383Z",
+    "updatedAt": "2026-04-21T19:01:51.383Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417760639430875325",
     "date": "2026-04-12",
     "description": "Laptop emi",
