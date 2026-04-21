@@ -81,6 +81,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767969974442698",
+    "date": "2026-04-15",
+    "description": "canteen",
+    "amount": 16,
+    "createdAt": "2026-04-21T18:43:17.444Z",
+    "updatedAt": "2026-04-21T18:43:17.444Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764139706009323",
     "date": "2026-04-14",
     "description": "Pmt",
