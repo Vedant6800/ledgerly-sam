@@ -99,6 +99,15 @@
     "category": "EMI"
   },
   {
+    "id": "exp_2026041776796798345946",
+    "date": "2026-04-11",
+    "description": "zepto",
+    "amount": 98,
+    "createdAt": "2026-04-21T18:39:58.345Z",
+    "updatedAt": "2026-04-21T18:39:58.345Z",
+    "category": "Miscellaneous"
+  },
+  {
     "id": "exp_20260417767967434452566",
     "date": "2026-04-10",
     "description": "tea",
