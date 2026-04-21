@@ -216,6 +216,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_2026041776798052722153",
+    "date": "2026-04-10",
+    "description": "pmt",
+    "amount": 40,
+    "createdAt": "2026-04-21T19:00:52.722Z",
+    "updatedAt": "2026-04-21T19:00:52.722Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417767966126894166",
     "date": "2026-04-09",
     "description": "hugerbox",
