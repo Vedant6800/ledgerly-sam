@@ -45,6 +45,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767979029246057",
+    "date": "2026-04-19",
+    "description": "sunday market",
+    "amount": 350,
+    "createdAt": "2026-04-21T18:58:22.924Z",
+    "updatedAt": "2026-04-21T18:58:22.924Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767978008814311",
     "date": "2026-04-18",
     "description": "tea",
