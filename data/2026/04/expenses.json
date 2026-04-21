@@ -27,6 +27,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417767953677982052",
+    "date": "2026-04-20",
+    "description": "baba gift",
+    "amount": 304,
+    "createdAt": "2026-04-21T18:16:07.798Z",
+    "updatedAt": "2026-04-21T18:16:07.799Z",
+    "category": "Gifts"
+  },
+  {
     "id": "exp_20260417764135403729914",
     "date": "2026-04-17",
     "description": "Pmt",
