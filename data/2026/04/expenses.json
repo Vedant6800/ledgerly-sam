@@ -108,6 +108,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417767965199107528",
+    "date": "2026-04-08",
+    "description": "hungerbox",
+    "amount": 26,
+    "createdAt": "2026-04-21T18:35:19.910Z",
+    "updatedAt": "2026-04-21T18:35:19.910Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767962385677625",
     "date": "2026-04-07",
     "description": "thaliprth",
