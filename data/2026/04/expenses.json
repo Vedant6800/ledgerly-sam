@@ -63,6 +63,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767971131163086",
+    "date": "2026-04-17",
+    "description": "canteen",
+    "amount": 61,
+    "createdAt": "2026-04-21T18:45:13.116Z",
+    "updatedAt": "2026-04-21T18:45:13.116Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764143351098441",
     "date": "2026-04-16",
     "description": "Chai",
