@@ -99,6 +99,15 @@
     "category": "EMI"
   },
   {
+    "id": "exp_20260417767964619274376",
+    "date": "2026-04-08",
+    "description": "pmt",
+    "amount": 20,
+    "createdAt": "2026-04-21T18:34:21.927Z",
+    "updatedAt": "2026-04-21T18:34:21.927Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417767962385677625",
     "date": "2026-04-07",
     "description": "thaliprth",
