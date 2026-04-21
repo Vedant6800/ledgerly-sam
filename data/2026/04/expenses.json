@@ -99,6 +99,15 @@
     "category": "EMI"
   },
   {
+    "id": "exp_20260417767962385677625",
+    "date": "2026-04-07",
+    "description": "thaliprth",
+    "amount": 75,
+    "createdAt": "2026-04-21T18:30:38.567Z",
+    "updatedAt": "2026-04-21T18:30:38.567Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767958864951909",
     "date": "2026-04-06",
     "description": "pmt,",
