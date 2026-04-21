@@ -144,6 +144,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767977424641091",
+    "date": "2026-04-12",
+    "description": "medicine",
+    "amount": 100,
+    "createdAt": "2026-04-21T18:55:42.464Z",
+    "updatedAt": "2026-04-21T18:55:42.464Z",
+    "category": "Healthcare"
+  },
+  {
     "id": "exp_2026041776796798345946",
     "date": "2026-04-11",
     "description": "zepto",
