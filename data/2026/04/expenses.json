@@ -153,6 +153,15 @@
     "category": "Healthcare"
   },
   {
+    "id": "exp_2026041776797526014567",
+    "date": "2026-04-11",
+    "description": "milk",
+    "amount": 10,
+    "createdAt": "2026-04-21T18:52:06.014Z",
+    "updatedAt": "2026-04-21T18:52:06.014Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767967434452566",
     "date": "2026-04-10",
     "description": "tea",
