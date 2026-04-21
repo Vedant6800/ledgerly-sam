@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417767951842664157",
+    "date": "2026-04-21",
+    "description": "Hungerbox",
+    "amount": 26,
+    "createdAt": "2026-04-21T18:13:04.266Z",
+    "updatedAt": "2026-04-21T18:13:04.266Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764135403729914",
     "date": "2026-04-17",
     "description": "Pmt",
