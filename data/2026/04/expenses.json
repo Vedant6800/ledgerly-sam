@@ -99,6 +99,15 @@
     "category": "EMI"
   },
   {
+    "id": "exp_20260417767967434452566",
+    "date": "2026-04-10",
+    "description": "tea",
+    "amount": 14,
+    "createdAt": "2026-04-21T18:39:03.445Z",
+    "updatedAt": "2026-04-21T18:39:03.446Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767966126894166",
     "date": "2026-04-09",
     "description": "hugerbox",
