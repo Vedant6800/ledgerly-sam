@@ -36,6 +36,15 @@
     "category": "Gifts"
   },
   {
+    "id": "exp_20260417767954034343402",
+    "date": "2026-04-20",
+    "description": "hugerbox",
+    "amount": 17,
+    "createdAt": "2026-04-21T18:16:43.434Z",
+    "updatedAt": "2026-04-21T18:16:43.434Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764135403729914",
     "date": "2026-04-17",
     "description": "Pmt",
