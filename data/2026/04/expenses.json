@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417767949260981692",
+    "date": "2026-04-21",
+    "description": "pmt",
+    "amount": 19.99,
+    "createdAt": "2026-04-21T18:08:46.098Z",
+    "updatedAt": "2026-04-21T18:08:46.098Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417764135403729914",
     "date": "2026-04-17",
     "description": "Pmt",
