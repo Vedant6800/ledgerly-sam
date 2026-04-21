@@ -135,6 +135,15 @@
     "category": "EMI"
   },
   {
+    "id": "exp_20260417767976449035956",
+    "date": "2026-04-12",
+    "description": "vegetable & fruit",
+    "amount": 260,
+    "createdAt": "2026-04-21T18:54:04.903Z",
+    "updatedAt": "2026-04-21T18:54:04.903Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_2026041776796798345946",
     "date": "2026-04-11",
     "description": "zepto",
