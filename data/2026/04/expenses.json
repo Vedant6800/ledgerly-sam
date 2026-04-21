@@ -81,6 +81,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_2026041776796884860206",
+    "date": "2026-04-14",
+    "description": "canteen",
+    "amount": 67,
+    "createdAt": "2026-04-21T18:41:24.860Z",
+    "updatedAt": "2026-04-21T18:41:24.860Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417764137940026255",
     "date": "2026-04-13",
     "description": "Pmt",
