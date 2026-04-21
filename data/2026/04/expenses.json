@@ -108,6 +108,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767966846311481",
+    "date": "2026-04-09",
+    "description": "tea",
+    "amount": 14,
+    "createdAt": "2026-04-21T18:38:04.631Z",
+    "updatedAt": "2026-04-21T18:38:04.631Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417767964619274376",
     "date": "2026-04-08",
     "description": "pmt",
