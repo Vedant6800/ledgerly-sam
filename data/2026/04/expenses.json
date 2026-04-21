@@ -144,6 +144,15 @@
     "category": "Miscellaneous"
   },
   {
+    "id": "exp_20260417767974390564135",
+    "date": "2026-04-11",
+    "description": "medicines",
+    "amount": 70,
+    "createdAt": "2026-04-21T18:50:39.056Z",
+    "updatedAt": "2026-04-21T18:50:39.056Z",
+    "category": "Healthcare"
+  },
+  {
     "id": "exp_20260417767967434452566",
     "date": "2026-04-10",
     "description": "tea",
