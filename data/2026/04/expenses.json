@@ -144,6 +144,15 @@
     "category": "Miscellaneous"
   },
   {
+    "id": "exp_20260417767960434822859",
+    "date": "2026-04-05",
+    "description": "cab",
+    "amount": 47.98,
+    "createdAt": "2026-04-21T18:27:23.482Z",
+    "updatedAt": "2026-04-21T18:27:23.482Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_2026041775284279871245",
     "date": "2026-04-04",
     "description": "Escip amount cut",
