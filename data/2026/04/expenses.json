@@ -153,6 +153,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417767973626383912",
+    "date": "2026-04-10",
+    "description": "cab",
+    "amount": 122,
+    "createdAt": "2026-04-21T18:49:22.638Z",
+    "updatedAt": "2026-04-21T18:49:22.638Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260417767966126894166",
     "date": "2026-04-09",
     "description": "hugerbox",
