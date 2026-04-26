@@ -18,6 +18,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417772275292634238",
+    "date": "2026-04-23",
+    "description": "miniso",
+    "amount": 170,
+    "createdAt": "2026-04-26T18:18:49.263Z",
+    "updatedAt": "2026-04-26T18:18:49.263Z",
+    "category": "Personal Care"
+  },
+  {
     "id": "exp_20260417772272335542020",
     "date": "2026-04-22",
     "description": "pmt",
