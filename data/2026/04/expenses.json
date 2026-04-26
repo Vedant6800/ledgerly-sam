@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417772276586271466",
+    "date": "2026-04-26",
+    "description": "fruits",
+    "amount": 220,
+    "createdAt": "2026-04-26T18:20:58.627Z",
+    "updatedAt": "2026-04-26T18:20:58.627Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_2026041777227593527998",
     "date": "2026-04-25",
     "description": "milk+icecream",
