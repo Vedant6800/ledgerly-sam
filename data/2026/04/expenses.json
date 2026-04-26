@@ -9,6 +9,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417772277196116623",
+    "date": "2026-04-26",
+    "description": "coffe+tea+chat",
+    "amount": 95,
+    "createdAt": "2026-04-26T18:21:59.611Z",
+    "updatedAt": "2026-04-26T18:21:59.611Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_2026041777227593527998",
     "date": "2026-04-25",
     "description": "milk+icecream",
