@@ -9,6 +9,15 @@
     "category": "Travel"
   },
   {
+    "id": "exp_20260417772275047309244",
+    "date": "2026-04-23",
+    "description": "cafe with srushti",
+    "amount": 160,
+    "createdAt": "2026-04-26T18:18:24.730Z",
+    "updatedAt": "2026-04-26T18:18:24.730Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417772272335542020",
     "date": "2026-04-22",
     "description": "pmt",
