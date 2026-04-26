@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_2026041777227593527998",
+    "date": "2026-04-25",
+    "description": "milk+icecream",
+    "amount": 40,
+    "createdAt": "2026-04-26T18:19:53.527Z",
+    "updatedAt": "2026-04-26T18:19:53.527Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417772273954085314",
     "date": "2026-04-23",
     "description": "cab",
