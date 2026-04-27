@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_2026041777317051472360",
+    "date": "2026-04-27",
+    "description": "canteen",
+    "amount": 78,
+    "createdAt": "2026-04-27T19:10:51.472Z",
+    "updatedAt": "2026-04-27T19:10:51.472Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417772276586271466",
     "date": "2026-04-26",
     "description": "fruits",
