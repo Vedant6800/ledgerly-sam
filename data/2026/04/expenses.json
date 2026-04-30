@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417775332172738784",
+    "date": "2026-04-29",
+    "description": "cold coffe",
+    "amount": 32,
+    "createdAt": "2026-04-30T07:13:37.273Z",
+    "updatedAt": "2026-04-30T07:13:37.273Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417775330958064953",
     "date": "2026-04-28",
     "description": "pmt,",
