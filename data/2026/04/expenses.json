@@ -45,6 +45,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417775334108447466",
+    "date": "2026-04-29",
+    "description": "dosa",
+    "amount": 60,
+    "createdAt": "2026-04-30T07:16:50.844Z",
+    "updatedAt": "2026-04-30T07:16:50.844Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417775330958064953",
     "date": "2026-04-28",
     "description": "pmt,",
