@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260417775333208564971",
+    "date": "2026-04-30",
+    "description": "zepto",
+    "amount": 205,
+    "createdAt": "2026-04-30T07:15:20.856Z",
+    "updatedAt": "2026-04-30T07:15:20.856Z",
+    "category": "Miscellaneous"
+  },
+  {
     "id": "exp_20260417775331702275670",
     "date": "2026-04-29",
     "description": "pmt",
