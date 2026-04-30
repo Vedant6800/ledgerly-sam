@@ -18,6 +18,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260417775332675059453",
+    "date": "2026-04-29",
+    "description": "maggie",
+    "amount": 30,
+    "createdAt": "2026-04-30T07:14:27.505Z",
+    "updatedAt": "2026-04-30T07:14:27.505Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417775330958064953",
     "date": "2026-04-28",
     "description": "pmt,",
