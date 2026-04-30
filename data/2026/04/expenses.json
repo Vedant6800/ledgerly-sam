@@ -63,6 +63,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260417775334608206573",
+    "date": "2026-04-28",
+    "description": "tea",
+    "amount": 26,
+    "createdAt": "2026-04-30T07:17:40.820Z",
+    "updatedAt": "2026-04-30T07:17:40.820Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260417773169604352618",
     "date": "2026-04-27",
     "description": "pmt,",
