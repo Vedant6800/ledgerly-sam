@@ -180,6 +180,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260517783435040512028",
+    "date": "2026-05-04",
+    "description": "bc",
+    "amount": 4000,
+    "createdAt": "2026-05-09T16:18:24.051Z",
+    "updatedAt": "2026-05-09T16:18:24.051Z",
+    "category": "Miscellaneous"
+  },
+  {
     "id": "exp_20260517783417664486064",
     "date": "2026-05-03",
     "description": "cargo perfume",
