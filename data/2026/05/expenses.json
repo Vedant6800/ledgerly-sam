@@ -106,5 +106,14 @@
     "createdAt": "2026-05-09T16:01:44.457Z",
     "updatedAt": "2026-05-09T16:01:44.457Z",
     "category": "Food"
+  },
+  {
+    "id": "exp_20260517783426471819571",
+    "date": "2026-05-01",
+    "description": "lunch+dinner",
+    "amount": 95,
+    "createdAt": "2026-05-09T16:04:07.181Z",
+    "updatedAt": "2026-05-09T16:04:07.181Z",
+    "category": "Food"
   }
 ]
