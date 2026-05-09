@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260517783423106061727",
+    "date": "2026-05-07",
+    "description": "attya",
+    "amount": 4916,
+    "createdAt": "2026-05-09T15:58:30.606Z",
+    "updatedAt": "2026-05-09T15:58:30.606Z",
+    "category": "others"
+  },
+  {
     "id": "exp_20260517783420590522990",
     "date": "2026-05-06",
     "description": "pmt",
