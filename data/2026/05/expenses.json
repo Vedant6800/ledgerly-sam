@@ -90,6 +90,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260517783428304175114",
+    "date": "2026-05-04",
+    "description": "medical",
+    "amount": 80,
+    "createdAt": "2026-05-09T16:07:10.417Z",
+    "updatedAt": "2026-05-09T16:07:10.417Z",
+    "category": "Healthcare"
+  },
+  {
     "id": "exp_20260517783417664486064",
     "date": "2026-05-03",
     "description": "cargo perfume",
