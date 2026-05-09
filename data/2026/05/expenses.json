@@ -9,6 +9,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260517783418605009094",
+    "date": "2026-05-04",
+    "description": "pmt",
+    "amount": 20,
+    "createdAt": "2026-05-09T15:51:00.500Z",
+    "updatedAt": "2026-05-09T15:51:00.500Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260517783417664486064",
     "date": "2026-05-03",
     "description": "cargo perfume",
