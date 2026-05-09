@@ -36,6 +36,15 @@
     "category": "others"
   },
   {
+    "id": "exp_20260517783431530522300",
+    "date": "2026-05-07",
+    "description": "aalu chat",
+    "amount": 50,
+    "createdAt": "2026-05-09T16:12:33.052Z",
+    "updatedAt": "2026-05-09T16:12:33.052Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260517783420590522990",
     "date": "2026-05-06",
     "description": "pmt",
