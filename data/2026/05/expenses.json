@@ -216,6 +216,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260517783436169544648",
+    "date": "2026-05-02",
+    "description": "fd",
+    "amount": 2000,
+    "createdAt": "2026-05-09T16:20:16.954Z",
+    "updatedAt": "2026-05-09T16:20:16.954Z",
+    "category": "Investment"
+  },
+  {
     "id": "exp_20260517783425044573407",
     "date": "2026-05-01",
     "description": "icecream",
