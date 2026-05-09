@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260517783419110503618",
+    "date": "2026-05-05",
+    "description": "pmt",
+    "amount": 40,
+    "createdAt": "2026-05-09T15:51:51.050Z",
+    "updatedAt": "2026-05-09T15:51:51.050Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260517783417922524424",
     "date": "2026-05-04",
     "description": "canteen",
