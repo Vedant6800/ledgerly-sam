@@ -81,6 +81,15 @@
     "category": "others"
   },
   {
+    "id": "exp_20260517783434624354678",
+    "date": "2026-05-07",
+    "description": "rent pg",
+    "amount": 7000,
+    "createdAt": "2026-05-09T16:17:42.435Z",
+    "updatedAt": "2026-05-09T16:17:42.435Z",
+    "category": "Rent"
+  },
+  {
     "id": "exp_20260517783420590522990",
     "date": "2026-05-06",
     "description": "pmt",
