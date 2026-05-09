@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260517783433132017434",
+    "date": "2026-05-09",
+    "description": "panipuri",
+    "amount": 30,
+    "createdAt": "2026-05-09T16:15:13.201Z",
+    "updatedAt": "2026-05-09T16:15:13.201Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260517783423771174444",
     "date": "2026-05-08",
     "description": "pmt",
