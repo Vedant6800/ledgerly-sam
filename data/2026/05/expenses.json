@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260517783417922524424",
+    "date": "2026-05-04",
+    "description": "canteen",
+    "amount": 68,
+    "createdAt": "2026-05-09T15:49:52.252Z",
+    "updatedAt": "2026-05-09T15:49:52.252Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260517783417664486064",
     "date": "2026-05-03",
     "description": "cargo perfume",
