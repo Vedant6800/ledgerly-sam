@@ -90,6 +90,15 @@
     "category": "Travel"
   },
   {
+    "id": "exp_20260517783430812073129",
+    "date": "2026-05-05",
+    "description": "cab",
+    "amount": 57,
+    "createdAt": "2026-05-09T16:11:21.207Z",
+    "updatedAt": "2026-05-09T16:11:21.207Z",
+    "category": "Travel"
+  },
+  {
     "id": "exp_20260517783417922524424",
     "date": "2026-05-04",
     "description": "canteen",
