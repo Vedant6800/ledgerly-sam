@@ -99,6 +99,15 @@
     "category": "Gifts"
   },
   {
+    "id": "exp_20260517783427125565945",
+    "date": "2026-05-03",
+    "description": "parking",
+    "amount": 50,
+    "createdAt": "2026-05-09T16:05:12.556Z",
+    "updatedAt": "2026-05-09T16:05:12.556Z",
+    "category": "Travel"
+  },
+  {
     "id": "exp_20260517783425044573407",
     "date": "2026-05-01",
     "description": "icecream",
