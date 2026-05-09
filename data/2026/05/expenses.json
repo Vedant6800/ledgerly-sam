@@ -97,5 +97,14 @@
     "createdAt": "2026-05-09T15:49:26.448Z",
     "updatedAt": "2026-05-09T15:49:26.448Z",
     "category": "Gifts"
+  },
+  {
+    "id": "exp_20260517783425044573407",
+    "date": "2026-05-01",
+    "description": "icecream",
+    "amount": 50,
+    "createdAt": "2026-05-09T16:01:44.457Z",
+    "updatedAt": "2026-05-09T16:01:44.457Z",
+    "category": "Food"
   }
 ]
