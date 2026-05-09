@@ -108,6 +108,15 @@
     "category": "Travel"
   },
   {
+    "id": "exp_20260517783427874578189",
+    "date": "2026-05-03",
+    "description": "mall+7/11",
+    "amount": 133,
+    "createdAt": "2026-05-09T16:06:27.457Z",
+    "updatedAt": "2026-05-09T16:06:27.457Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260517783425044573407",
     "date": "2026-05-01",
     "description": "icecream",
