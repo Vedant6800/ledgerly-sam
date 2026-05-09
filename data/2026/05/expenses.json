@@ -45,6 +45,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260517783432116181235",
+    "date": "2026-05-07",
+    "description": "attya",
+    "amount": 237,
+    "createdAt": "2026-05-09T16:13:31.618Z",
+    "updatedAt": "2026-05-09T16:13:31.618Z",
+    "category": "others"
+  },
+  {
     "id": "exp_20260517783420590522990",
     "date": "2026-05-06",
     "description": "pmt",
