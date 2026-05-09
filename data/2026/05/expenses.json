@@ -99,6 +99,15 @@
     "category": "Healthcare"
   },
   {
+    "id": "exp_2026051778342924888388",
+    "date": "2026-05-04",
+    "description": "sharbat+tarbooj",
+    "amount": 60,
+    "createdAt": "2026-05-09T16:08:44.888Z",
+    "updatedAt": "2026-05-09T16:08:44.888Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260517783417664486064",
     "date": "2026-05-03",
     "description": "cargo perfume",
