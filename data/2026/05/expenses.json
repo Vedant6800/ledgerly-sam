@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260517794350064947174",
+    "date": "2026-05-13",
+    "description": "medical",
+    "amount": 101,
+    "createdAt": "2026-05-22T07:30:06.494Z",
+    "updatedAt": "2026-05-22T07:30:06.494Z",
+    "category": "Healthcare"
+  },
+  {
     "id": "exp_20260517794347476722245",
     "date": "2026-05-12",
     "description": "cab office",
