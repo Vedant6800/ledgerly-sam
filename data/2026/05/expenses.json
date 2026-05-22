@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260517794348283801760",
+    "date": "2026-05-13",
+    "description": "cab office",
+    "amount": 118,
+    "createdAt": "2026-05-22T07:27:08.380Z",
+    "updatedAt": "2026-05-22T07:27:08.381Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260517794347476722245",
     "date": "2026-05-12",
     "description": "cab office",
