@@ -34,5 +34,14 @@
     "createdAt": "2026-06-07T08:02:33.251Z",
     "updatedAt": "2026-06-07T08:02:33.251Z",
     "category": "Investment"
+  },
+  {
+    "id": "exp_20260617808194982106956",
+    "date": "2026-06-05",
+    "description": "Food",
+    "amount": 40,
+    "createdAt": "2026-06-07T08:04:58.210Z",
+    "updatedAt": "2026-06-07T08:04:58.210Z",
+    "category": "Food"
   }
 ]
