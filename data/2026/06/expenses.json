@@ -18,6 +18,15 @@
     "category": "Food"
   },
   {
+    "id": "exp_20260617815863443966941",
+    "date": "2026-06-12",
+    "description": "Laptop emi",
+    "amount": 7500,
+    "createdAt": "2026-06-16T05:05:44.396Z",
+    "updatedAt": "2026-06-16T05:05:44.396Z",
+    "category": "EMI"
+  },
+  {
     "id": "exp_20260617808192457541112",
     "date": "2026-06-07",
     "description": "Dental",
