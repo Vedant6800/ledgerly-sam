@@ -1,5 +1,14 @@
 [
   {
+    "id": "exp_20260617815862142299720",
+    "date": "2026-06-15",
+    "description": "Pmt",
+    "amount": 20,
+    "createdAt": "2026-06-16T05:03:34.229Z",
+    "updatedAt": "2026-06-16T05:03:34.229Z",
+    "category": "Transportation"
+  },
+  {
     "id": "exp_20260617808192457541112",
     "date": "2026-06-07",
     "description": "Dental",
