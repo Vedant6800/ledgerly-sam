@@ -9,6 +9,15 @@
     "category": "Transportation"
   },
   {
+    "id": "exp_20260617815862721729882",
+    "date": "2026-06-15",
+    "description": "Canteen",
+    "amount": 77,
+    "createdAt": "2026-06-16T05:04:32.172Z",
+    "updatedAt": "2026-06-16T05:04:32.172Z",
+    "category": "Food"
+  },
+  {
     "id": "exp_20260617808192457541112",
     "date": "2026-06-07",
     "description": "Dental",
